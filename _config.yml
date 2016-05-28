@@ -1,0 +1,14 @@
+layout_spectrum: 0.7992831
+color:
+  saturation: 0.6810036
+  lightness: 0.6308244
+  brandStrength: 0.4408602
+  brandColors:
+    - '#FEFEFE'
+    - '#050603'
+    - '#2F2824'
+    - '#C4A68A'
+    - '#5C533E'
+  rhythmicContrast: 0.9444444
+typography_spectrum: 0.3369175
+name: Avenue
